@@ -6,8 +6,10 @@ void main()
 {
 int a,b,c;
 printf("enter 2 no.");
-scanf("%d %d",&a,&b);
+scanf("%d %d",&a,&b)
 c=a+b;
 printf("%d",c);
 getch();
 }
+hello
+books
